@@ -1,4 +1,4 @@
-package com.example.diaz.mark;
+package com.diaz.mark;
 
 import org.junit.Test;
 

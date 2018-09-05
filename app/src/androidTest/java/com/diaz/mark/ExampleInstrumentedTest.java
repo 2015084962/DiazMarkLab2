@@ -1,4 +1,4 @@
-package com.example.diaz.mark;
+package com.diaz.mark;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
