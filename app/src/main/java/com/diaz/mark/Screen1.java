@@ -10,6 +10,6 @@ public class Screen1 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_screen1);
+        setContentView(R.layout.constraintlayout);
     }
 }
